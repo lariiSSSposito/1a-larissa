@@ -1,4 +1,13 @@
-    h1 {   
+  * {
+margin: 0;
+padding: 0%;
+  }
+
+  img {
+    width: 100%;
+  }
+  
+  h1 {   
 text-align: center;
 color: rgb(214, 206, 206); 
 text-transform: uppercase;
