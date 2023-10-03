@@ -8,6 +8,18 @@ padding: 0%;
   height: 5%;
 }
 
+.header-pai {
+  position: relative;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+
+nav li {
+  display: inline;
+  padding: 2opx;
+}
+
 
   #banner{
     width: 100%;
