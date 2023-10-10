@@ -21,7 +21,10 @@ nav li {
 }
 
 nav a {
-  
+  text-transform: uppercase;
+  color: white;
+  font-size: 30px;
+  text-decoration: none;
 }
 
 
