@@ -30,7 +30,8 @@ nav a {
 }
 
 nav a:hover { 
-  
+color: blueviolet;
+text-decoration: underline;
 }
 
 
